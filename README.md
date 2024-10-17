@@ -12,7 +12,7 @@ Aplicação feita em java, para desenvolver o conhecimento sobre a arquitetura h
 
 <img src="Hexagonal-architecture.png" alt="Arquitetura Hexagonal">
 
-> Este projeto consiste em uma aplicação criada com java/spring Rest, aplicando a arquitetura hexagonal. 
+> Este projeto consiste em uma aplicação criada com Rest java/spring, aplicando a arquitetura hexagonal. 
 
 ### Ajustes e melhorias
 
@@ -52,7 +52,7 @@ Vou gerar a imagem e subir para o dockerHub
 
 ## 📫 Contribuindo para java-hexagonal
 
-Para contribuir com <nome_do_projeto>, siga estas etapas:
+Para contribuir com java-hexagonal, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
