@@ -2,8 +2,6 @@
 Aplicação feita em java, para desenvolver o conhecimento sobre a arquitetura hexagonal
 
 
-# Nome do projeto
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/RobsonArcoleze/java-hexagonal?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/RobsonArcoleze/java-hexagonal?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/RobsonArcoleze/java-hexagonal?style=for-the-badge)
